@@ -1,5 +1,5 @@
 body {
-background-image: url('fondo.png');
+background-image: url('SOUND STUDIO/fondo.png');
   background-size: cover; /* cubre toda la pantalla */
     background-position: center; /* centrada */
     background-repeat: no-repeat;
@@ -179,4 +179,5 @@ button:hover {
     font-size: 28px;
     text-align:right;
     font-weight: 700;
+
 }
